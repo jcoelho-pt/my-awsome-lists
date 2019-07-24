@@ -18,9 +18,6 @@ My lists of favorite presentations, books, articles, ...
 -->
 
 <br>
-<br>
-<br>
-
 
 ## Contents
 
