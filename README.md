@@ -24,7 +24,7 @@ My lists of favorite presentations, books, articles, ...
 
 ## Contents
 
-- [Data Platforms](#analytics-&-data-governance)
+- [Analytics & Data Governance](#analytics--data-governance)
 
 
 ## Analytics & Data Governance
