@@ -1,9 +1,6 @@
-# my-awsome-lists
-My lists of favorite presentations, books, articles, ...
-
 <div align="center">
 	<!-- <img width="500" height="350" src="media/logo.svg" alt="Awesome"> -->
-  <br><h1># my-awsome-lists</h1>
+  <br><h1>#my-awsome-lists</h1>
   <br><h2>My lists of favorite presentations, books, articles, ...</h2>
 	<br>
 </div>
