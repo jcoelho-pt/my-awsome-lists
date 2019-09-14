@@ -1,25 +1,13 @@
-<div align="center">
-	<!-- <img width="500" height="350" src="media/logo.svg" alt="Awesome"> -->
-  <br><h1>#my-awsome-lists</h1>
-  <br><h2>My lists of favorite presentations, books, articles, ...</h2>
-	<br>
-</div>
+# MY AWSOME LISTS
+My lists of favorite presentations, books, articles, ..
 
-<!-- <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
-</p>
--->
-
-<br>
-
-## Contents
-
-- [Analytics & Data Governance](#analytics--data-governance)
+##### Table of Contents
+- [Analytics & Data Governance](#analytics--data-governance)  
+- [Software Development]
 
 
 ## Analytics & Data Governance
 - [outsystems - Self-service Data - Democratizing data access](https://github.com/powerbi-portugal/Apresentacoes/blob/master/PBIPT_5/PBIPT%205%20-%20OutSystems.pdf)
+
+## Software Development
+[You are not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) "_Software engineers go crazy for the most ridiculous things. We like to think that we’re hyper-rational, but when we have to choose a technology, we end up in a kind of frenzy — bouncing from one person’s Hacker News comment to another’s blog post until, in a stupor, we float helplessly toward the brightest light and lay prone in front of it, oblivious to what we were looking for in the first place._" #software-development #programming #database #big-data
