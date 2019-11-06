@@ -11,3 +11,8 @@ My lists of favorite presentations, books, articles, ..
 
 ## Software Development
 [You are not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) "_Software engineers go crazy for the most ridiculous things. We like to think that we’re hyper-rational, but when we have to choose a technology, we end up in a kind of frenzy — bouncing from one person’s Hacker News comment to another’s blog post until, in a stupor, we float helplessly toward the brightest light and lay prone in front of it, oblivious to what we were looking for in the first place._" `Software Development` `Programming` `Database` `Big Data`
+
+## Software
+### Droppy
+Droppy is a self-hosted file storage server with a web interface and capabilities to edit files and view media directly in the browser. It is particularly well-suited to be run on low-end hardware like the Raspberry Pi.  
+[GitHub Project](https://github.com/silverwind/droppy)
